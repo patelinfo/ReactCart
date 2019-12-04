@@ -1,0 +1,8 @@
+#MainContent{
+    display: flex;
+    flex-direction: row;
+    width:900px;
+    flex-wrap: wrap;
+    margin:1% 10%;
+
+}
